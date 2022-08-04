@@ -1,6 +1,6 @@
 {
     "name": "RGBButton",
-    "description": "",
+    "description": "0.0.1",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "rgbButton.ts",
+        "_locales/zh-cn/RGBButton-strings.json"
     ],
     "testFiles": [
         "test.ts"

@@ -1,0 +1,7 @@
+{
+    "rgbButton.begin|block": "初始化I2C RGB灯按钮模块等待直到成功 %address",
+    "rgbButton.setRGBColor1|block": "设置显示颜色 红 %r 绿 %g 蓝 %b",
+    "rgbButton.setRGBColor2|block": "设置显示颜色 %color",
+    "rgbButton.getButtonStatus|block": "按键按下？"
+
+}
