@@ -84,9 +84,8 @@ namespace rgbButton {
      * @param color , eg: 5
      */
     //% block="set display color %color"
-    //% color.shadow="colorNumberPicker"
     //% weight=70
-    export function setRGBColor2(color: number): void {
+    export function setRGBColor2(color: DFR0991COLOR): void {
 
         let data: number[] = [0x01, 0, 0, 0]
         data[1] = (color >> 16) & 0xFF;
