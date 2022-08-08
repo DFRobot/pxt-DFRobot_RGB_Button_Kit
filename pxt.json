@@ -1,6 +1,6 @@
 {
     "name": "RGBButton",
-    "description": "0.0.1",
+    "description": "0.0.2",
     "dependencies": {
         "core": "*",
         "radio": "*",

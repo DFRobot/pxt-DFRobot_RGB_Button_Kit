@@ -2,6 +2,15 @@
     "rgbButton.begin|block": "初始化I2C RGB灯按钮模块等待直到成功 %address",
     "rgbButton.setRGBColor1|block": "设置显示颜色 红 %r 绿 %g 蓝 %b",
     "rgbButton.setRGBColor2|block": "设置显示颜色 %color",
-    "rgbButton.getButtonStatus|block": "按键按下？"
+    "rgbButton.getButtonStatus|block": "按键按下？",
 
+    "DFR0991COLOR.A|block": "红色",
+    "DFR0991COLOR.B|block": "橙色",
+    "DFR0991COLOR.C|block": "黄色",
+    "DFR0991COLOR.D|block": "绿色",
+    "DFR0991COLOR.E|block": "靛蓝色",
+    "DFR0991COLOR.F|block": "蓝色",
+    "DFR0991COLOR.G|block": "紫色",
+    "DFR0991COLOR.H|block": "白色（用于打开LED）",
+    "DFR0991COLOR.I|block": "黑色（用于关闭LED）"
 }

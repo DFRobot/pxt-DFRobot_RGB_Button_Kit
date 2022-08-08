@@ -18,6 +18,27 @@ enum DFR0991I2CADDR {
     H = 0x29
 }
 
+enum DFR0991COLOR {
+    //% block="Red"
+    A = 0xFF0000,
+    //% block="Orange"
+    B = 0xFF7F00,
+    //% block="Yellow"
+    C = 0xFFFF00,
+    //% block="Green"
+    D = 0x00FF00,
+    //% block="Indigo"
+    E = 0x00FFFF,
+    //% block="Blue"
+    F = 0x0000FF,
+    //% block="Purple"
+    G = 0x8B00FF,
+    //% block="White (for turning on LED)"
+    H = 0xFFFFFF,
+    //% block="Black (for turning off LED)"
+    I = 0x000000,
+}
+
 /**
  * rgbButton blocks
  */
